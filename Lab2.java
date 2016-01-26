@@ -20,11 +20,11 @@ public class Lab2 {
 
 	short numWives = 8;
 
-	int numSacksPerWife = (double) 7;
+	int numSacksPerWife = 7;
 	
-	int numCatsPerSack = 7.0;
+	int numCatsPerSack = 7;
 
-	int numKitsPerCat = (long) 7;
+	int numKitsPerCat = 7;
 
 	byte total;
 
