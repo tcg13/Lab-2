@@ -16,7 +16,7 @@ public class Lab2 {
 	// Assume that the original man is also going to St. Ives, so
 	// the boolean variable manGoingToStIves should be true.
 	
-	boolean manGoingToStIves = !true;
+	boolean manGoingToStIves = true;
 
 	int numWives = 7;
 
