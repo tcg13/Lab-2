@@ -26,7 +26,7 @@ public class Lab2 {
 
 	int numKitsPerCat = 7;
 
-	byte total;
+	int total;
 
 	// If the original man is going to St. Ives, then all are going
 	// the narrator, original man, kitten, cats, sacks, wives.
