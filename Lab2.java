@@ -18,7 +18,7 @@ public class Lab2 {
 	
 	boolean manGoingToStIves = !true;
 
-	short numWives = 8;
+	short numWives = 7;
 
 	int numSacksPerWife = 7;
 	
